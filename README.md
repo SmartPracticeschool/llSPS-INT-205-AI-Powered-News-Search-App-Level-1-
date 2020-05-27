@@ -25,6 +25,8 @@ The Watson Discovery Service responds to Slack search requests.
 
 **Results**
 UI link: https://ai-news-search-app.eu-gb.mybluemix.net/ui/#!/0?socketid=nTiNIflFEucGNlXMAAAC
+
+
 Demonstration;  
 [click here](https://github.com/SmartPracticeschool/llSPS-INT-205-AI-Powered-News-Search-App-Level-1-/blob/master/Project%20demonstration%20%26%20feedback.mp4)
 
