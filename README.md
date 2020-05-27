@@ -1,9 +1,12 @@
 # llSPS-INT-205-AI-Powered-News-Search-App-Level-1-
 AI Powered News Search App (Level-1)
 The web is home to massive amounts of data, with more being created every day.
-Organizations can harness this constant stream of information to gain understanding, plan strategies, and find opportunities.
 Enriched news data can help your application make dynamic connections across current events faster
-The project is build with our own news mining web application using Node-RED / Python Web App and the IBM Watson Discovery Service. 
+
+The project is build with our own news mining web application using Node-RED / Python Web App and the IBM Watson Discovery Service.
+
+
+
 PROJECT FLOW
 The user interacts with the app UI(Built with Node-RED or Cloud or Local) to request relevant news content.
 The app sends user requests to Watson Discovery News.
